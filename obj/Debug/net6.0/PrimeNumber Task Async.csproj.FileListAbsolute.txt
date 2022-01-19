@@ -1,0 +1,15 @@
+E:\Code Rookie\PrimeNumber Task Async\bin\Debug\net6.0\PrimeNumber Task Async.exe
+E:\Code Rookie\PrimeNumber Task Async\bin\Debug\net6.0\PrimeNumber Task Async.deps.json
+E:\Code Rookie\PrimeNumber Task Async\bin\Debug\net6.0\PrimeNumber Task Async.runtimeconfig.json
+E:\Code Rookie\PrimeNumber Task Async\bin\Debug\net6.0\PrimeNumber Task Async.dll
+E:\Code Rookie\PrimeNumber Task Async\bin\Debug\net6.0\ref\PrimeNumber Task Async.dll
+E:\Code Rookie\PrimeNumber Task Async\bin\Debug\net6.0\PrimeNumber Task Async.pdb
+E:\Code Rookie\PrimeNumber Task Async\obj\Debug\net6.0\PrimeNumber Task Async.csproj.AssemblyReference.cache
+E:\Code Rookie\PrimeNumber Task Async\obj\Debug\net6.0\PrimeNumber Task Async.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Rookie\PrimeNumber Task Async\obj\Debug\net6.0\PrimeNumber Task Async.AssemblyInfoInputs.cache
+E:\Code Rookie\PrimeNumber Task Async\obj\Debug\net6.0\PrimeNumber Task Async.AssemblyInfo.cs
+E:\Code Rookie\PrimeNumber Task Async\obj\Debug\net6.0\PrimeNumber Task Async.csproj.CoreCompileInputs.cache
+E:\Code Rookie\PrimeNumber Task Async\obj\Debug\net6.0\PrimeNumber Task Async.dll
+E:\Code Rookie\PrimeNumber Task Async\obj\Debug\net6.0\ref\PrimeNumber Task Async.dll
+E:\Code Rookie\PrimeNumber Task Async\obj\Debug\net6.0\PrimeNumber Task Async.pdb
+E:\Code Rookie\PrimeNumber Task Async\obj\Debug\net6.0\PrimeNumber Task Async.genruntimeconfig.cache
